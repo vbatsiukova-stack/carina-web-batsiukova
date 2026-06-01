@@ -1,0 +1,18 @@
+[2026-06-01 11:52:16] [3] [INFO] 
+=========== WebDriver configuration ===========
+url=https://www.onliner.by/
+browser=chrome
+selenium_url=http://localhost:9516
+-------------- Driver capabilities ------------
+===============================================
+
+[2026-06-01 11:52:16] [3] [WARN] Reporting disabled: using no op test run registrar
+[2026-06-01 11:52:17] [3] [INFO] [TestNG] Running:
+  /Users/viktoryiabatsiukova/Library/Caches/JetBrains/IntelliJIdea2025.3/temp-testng-customsuite.xml
+
+[2026-06-01 11:52:17] [3] [INFO] Set thread-count=1
+[2026-06-01 11:52:17] [3] [INFO] Set data-provider-thread-count=1
+[2026-06-01 11:52:17] [3] [INFO] CARINA_CORE_VERSION: 1.3.0
+[2026-06-01 11:52:30] [3] [INFO] INFO: '**************** Test execution summary ****************'.
+[2026-06-01 11:52:30] [3] [INFO] RESULT #1: TEST [carina-web-batsiukova - testOpenMobilePhonesPage] FAIL [log=file:///Users/viktoryiabatsiukova/IdeaProjects/carina-web-batsiukova/reports/1780314736088/1c45ed64-0a7a-4904-a00a-121548cd0d5c/test.log]
+[2026-06-01 11:52:30] [3] [INFO] RESULT #2: TEST [carina-web-batsiukova - testOpenOnliner] PASS [log=file:///Users/viktoryiabatsiukova/IdeaProjects/carina-web-batsiukova/reports/1780314736088/129e607f-328d-4db4-ae7d-e1382df27240/test.log]

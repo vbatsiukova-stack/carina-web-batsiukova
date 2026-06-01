@@ -1,0 +1,6 @@
+[2026-06-01 11:34:13] [3] [WARN] Reporting disabled: using no op test run registrar
+[2026-06-01 11:34:13] [3] [INFO] TEST [carina-web-batsiukova - testOpenOnliner] STARTED at [13:34:13 2026-06-01]
+[2026-06-01 11:34:13] [3] [INFO] Starting driver session...
+[2026-06-01 11:34:15] [3] [INFO] Driver session started.
+[2026-06-01 11:34:15] [3] [INFO] INFO: opening url 'https://www.onliner.by/'
+[2026-06-01 11:34:15] [3] [INFO] TEST [carina-web-batsiukova - testOpenOnliner] PASSED at [13:34:15 2026-06-01]
