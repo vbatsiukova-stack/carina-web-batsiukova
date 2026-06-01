@@ -1,7 +1,0 @@
-[2026-06-01 11:39:42] [3] [WARN] Reporting disabled: using no op test run registrar
-[2026-06-01 11:39:42] [3] [INFO] TEST [carina-web-batsiukova - testOpenMobilePhonesPage] STARTED at [13:39:42 2026-06-01]
-[2026-06-01 11:39:42] [3] [INFO] Starting driver session...
-[2026-06-01 11:39:47] [3] [INFO] Driver session started.
-[2026-06-01 11:39:47] [3] [INFO] INFO: opening url 'https://www.onliner.by/'
-[2026-06-01 11:39:50] [3] [INFO] Element 'catalogButton' is clicked.
-[2026-06-01 11:40:03] [3] [INFO] TEST [carina-web-batsiukova - testOpenMobilePhonesPage] PASSED at [13:40:03 2026-06-01]
